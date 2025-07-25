@@ -1,0 +1,14 @@
+class Bike
+{
+    Bike(int a)
+	   {
+	      System.out.printIn("Parameterzied constructor");
+		}
+		
+	
+		public static void main(String args[])
+		{d
+	   Bike b=new Bike(15);
+	  }
+}	  
+	 
